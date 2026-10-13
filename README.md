@@ -1,4 +1,4 @@
-# CAPSTONE_PROJECT_Edunet
+# AI Research Agent
 Description: The AI Research Agent is an AI-powered system designed to simplify and accelerate the research process by automating information retrieval, document analysis, and summarization. Using IBM Granite, Natural Language Processing (NLP), and web search tools, it helps students, researchers, and professionals find relevant information, extract key insights, identify emerging trends, and generate structured research reports. The system reduces the time and effort required for manual literature reviews, making research more efficient, accessible, and productive.
 ------------------------------------------------------------------------------------------------------------
 <img width="1146" height="538" alt="photo_6229035638724432216_y" src="https://github.com/user-attachments/assets/19a98174-33d6-49b5-a92b-4075e2c93a09" />
